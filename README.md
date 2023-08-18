@@ -8,7 +8,7 @@ This package will allow [Faker](https://github.com/FakerPHP/Faker) to generate f
 To install, use composer:
 
 ```bash
-composer soul-was-here/faker-planet
+composer require soul-was-here/faker-planet
 ```
 
 ## Usage
