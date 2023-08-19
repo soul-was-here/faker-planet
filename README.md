@@ -1,7 +1,11 @@
 Planet Provider for Faker
 ---
 
-This package will allow [Faker](https://github.com/FakerPHP/Faker) to generate fake Planets
+This package will allow [Faker](https://github.com/FakerPHP/Faker) to generate planet description including name, type, size, radius, gravity, 
+temperature and water prevalence. There are also several planet templates. See the [Usage](#usage) section for examples.
+
+This package ignores some realistic scientific details (such as scientific planet names) and used to create an
+interesting background for your story or game etc.
 
 ## Install
 
